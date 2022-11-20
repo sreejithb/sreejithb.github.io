@@ -2,11 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Student Tutor for CS4243-AI Decision-making and Planning.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<p>Served as a student tutor for an introductory course for Artificial Intelligence titled <em>AI Decision-making and Planning </em>. My responsibilities included conducting tutorials 3 times a week, holding consultation sessions, and grading examination papers. At the end of the semester, I received a score of 4.4 out 5.0 based on student feedback which secured me a place in the prestigious Honor List of Student Tutors. </p>

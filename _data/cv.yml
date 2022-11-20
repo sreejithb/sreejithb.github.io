@@ -2,96 +2,144 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Sreejith Balakrishnan
     - name: Languages
-      value: English, German
+      value: English, Malayalam, Tamil, Hindi
 
+- title: Publications
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - <b>Sreejith Balakrishnan</b>, Jianxin Bi, and Harold Soh. SCALES - From Fairness Principles to Constrained Decision-Making. Artificial Intelligence, Ethics, and Society (AIES) 2022.
+    
+    - year: 2020
+      items: 
+        - <b>Sreejith Balakrishnan</b>, Quoc Phong Nguyen, Bryan Kian Hsiang Low, and Harold Soh. Efficient Exploration of Reward Functions in Inverse Reinforcement Learning via Bayesian Optimization. Neural Information Processing Systems (NeurIPS) 2020. 
+    
+- title: Awards
+  type: time_table
+  contents:
+    - year: 2021
+      items: 
+        - <b>Research Achievement Award</b>,
+        - Awarded for the NeurIPS 2020 accepted paper.
+    - year: 2019
+      items: 
+        - <b>Honor List of Student Tutors</b>,
+        - Awarded for outstanding tutoring for the module "AI Decision Making and Planning"
+    - year: 2016
+      items: 
+        - <b>NUS Research Scholarship</b>,
+        - Awarded to pursue Ph.D. program in School of Computing at National University of singapore.
+    
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: National University of Singapore, Singapore
+      year: 2016-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Completed Thesis Proposal presentation. 
+        - title: Research interests
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+          - Inverse Reinforcement Learning and Value Alignment for robotics.
+          - Fairness in algorithmic decision making.
+          - Causal inference. 
+        - title: Relevant coursework 
+          contents: 
+          - Uncertainty Modelling in AI
+          - Advanced Topics in Artificial Intelligence
+    - title: Master of Science (MSc)
+      institution: National University of Singapore, Singapore
+      year: 2010-2013
       description:
-        - Description 1.
-        - Description 2.
+        - M.Sc in Electrical Engineering with a specialization in Computer Engineering
+        - 4.6 GPA
+        - title: Relevant coursework
+          contents: Real-time Systems, Linear Systems, Pattern Recognition, Evolutionary Computing
+    - title: Bachelor of Engineering (BEng)
+      institution: Nanyang Technological University, Singapore
+      year: 2004-2008
+      description:
+        - B.Eng in Electrical and Electronics Engineering with a Minor in Computing
+        - First Class Honors
+        - title: Relevant coursework
+          contents: Robotics & Automation, Control Engineering Design, Modelling & control, Computer Vision
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: CLeAR Lab, National University of Singapore, Singapore
+      year: 2020-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Assist with research projects under the CLeAR Lab in NUS.
+        - Manage the server environments required for the various projects.
+        - Assist with procurement of hardware and software components necessary for upcoming projects.
+    
+    - title: Teaching Assistant, AI Decision-making and Planning
+      institution: School of Computing, National University of Singapore, Singapore
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Conducted tutorials for the undergraduate (4th year) module
+        - Awarded Honor List of Student Tutors 
+        - Received a high rating of 4.4 out of 5 based on student feedback.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Engineer and Project Lead
+      institution: UNiCEN, Singapore Management University
+      year: 2015-2016
       description:
+        - Technical lead for a Singapore urban planning project undertaken by Fujitsu-SMU Urban Computing & Engineering Corporate Lab (UNiCEN).
+        - Modeled the passenger flow at various taxi stands in Singapore to address the mismatch in taxi supply and demand.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Section Manager, Regional After-sales Support
+      institution: ABB Private Limited, Singapore
+      year: 2008-2015
+      description:
+        - Spearheaded a team of 5 engineers to provide engineering solutions to customers in Asia, Australia, and New Zealand.
 
-- title: Open Source Projects
+    - title: Expert Trainer
+      institution: ABB Private Limited, Singapore
+      year: 2010-2015
+      description:
+        - Invited to conduct advanced-level product training for engineers and customers in various countries around the globe.
+
+
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2019
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - <b>Decentralized Task Allocation for Multi-robot Systems, National University of Singapore</b>
+        - Designed a task allocation algorithm for a decentralized multi-robot environments with limited communication.
+    - year: 2008
       items: 
-        - Max Planck Medal
+        - <b>Control System for Humanoid Robot, Final Year Project, Nanyang Technological University, Singapore</b>
+        - Interfaced a humanoid robot with sensors using various communication protocols like Bluetooth and I2C. 
+    - year: 2007
+      items: 
+        - <b>Humanoid Robot Exhibition, Discovery Center, Singapore</b>
+        - Led a team of 12 students to create a a public exhibition where the movements of 4 humanoid robots were synchronized against background music. 
+        
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Inverse Reinforcement Learning
+        - Algorithmic Decision-making
+        - Reinforcement Learning
+        - Bayesian optimization
+        - Gaussian process regression
+        - Deep Learning
+        - Active Learning
+        - Evolutionary algorithms
+    - title: Programming Languages
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Python for machine learning (Highly Proficient)
+        - R for data analytics and visualisation (Proficient) 
+        - Java for desktop development (Working Knowledge) 
+        - Javascript for web development (Working Knowledge)
+        - C/C++/C# for robotics (Working Knowledge)
